@@ -24,7 +24,7 @@ p {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: url('forest-background.jpg') no-repeat center center/cover;
+    background: url('forest-background.png') no-repeat center center/cover;
     overflow: hidden;
 }
 
